@@ -1,4 +1,4 @@
-A note
+Note
 ==========================
 
 These are my solutions to the exercises presented in this book. They can be found in the Jupyter Notebooks associated with each chapter. Now onto the original README:
